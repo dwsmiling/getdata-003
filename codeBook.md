@@ -19,6 +19,7 @@
 
 ### Tidy Set : 
      
+    The first row of tidyData.txt contains the feature names
     (these represent the average of the  mean() and the std() features as described 
     is the raw data file features.txt)
 
