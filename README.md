@@ -1,4 +1,4 @@
-run_Analysis.R is an R script that creates a dataset using the raw data downloading from 
+run_Analysis.R is an R script that creates a dataset using the raw data downloaded from 
 
 archive: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
