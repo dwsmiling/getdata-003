@@ -10,3 +10,5 @@ It assumes that the archive has been downloaded and unzipped to the current work
 This function will output a dataset fname to the current working directory.
 
 tidyData.txt represents the output of run_Analysis.R with fname: 'tinyData.txt'
+
+codeBook.md explains the contents of tidyData.txt
